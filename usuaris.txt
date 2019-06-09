@@ -1,0 +1,3 @@
+AdministradorSistema - admin123 + admin1234
+AdministradorBD - admin156
+Usuari - user1234
